@@ -36,5 +36,5 @@ def about():
         func1='share reports',
         func2='watch reports',
         func3='download reports',
-        func4='cgange report format'
+        func4='change report format'
     )
